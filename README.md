@@ -49,6 +49,7 @@ Olá! Sou o **João Vitor**, desenvolvedor **júnior** apaixonado por tecnologia
 
 </div>
 
+
 <div align="center">
 
 | Área | Tecnologias |

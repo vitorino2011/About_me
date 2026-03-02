@@ -1,83 +1,156 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:312e81,100:4338ca&height=250&section=header&text=Olá!%20Eu%20sou%20o%20João%20Vitor&fontSize=60&fontColor=ffffff&fontAlignY=30&desc=Desenvolvedor%20Júnior%20•%20Criador%20de%20soluções%20digitais&descAlignY=50&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=220&section=header&text=João%20Vitor&fontSize=72&fontColor=70a5fd&fontAlignY=38&desc=Desenvolvedor%20Júnior%20•%20Mecatrônica%20•%20Web%20•%20Dados&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 </div>
 
 <br>
 
-<!-- Cards lado a lado -->
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=vitorino2011&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&count_private=true" width="100%" alt="GitHub Stats"/>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorino2011&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=4" width="100%" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- Tecnologias -->
+<!-- Badges de métricas (sem erro, apenas shields estáticos e confiáveis) -->
 <div align="center">
-  <h3 style="color: #70a5fd;">🛠️ Tech Stack</h3>
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js&theme=dark&perline=4" width="280" alt="Tech Stack"/>
+  <a href="https://github.com/vitorino2011?tab=repositories">
+    <img src="https://img.shields.io/badge/⭐%20ESTRELAS-945-FFD700?style=for-the-badge&labelColor=1a1a2e"/>
+  </a>
+  <a href="https://github.com/vitorino2011?tab=followers">
+    <img src="https://img.shields.io/github/followers/vitorino2011?label=SEGUIDORES&style=for-the-badge&color=70a5fd&labelColor=1a1a2e&logo=github"/>
+  </a>
+  <a href="https://www.instagram.com/vitorinojoaovitorramos/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-@vitorinojoaovitorramos-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=vitorino2011&label=VIEWS&color=70a5fd&style=for-the-badge&labelColor=1a1a2e"/>
 </div>
 
 <br>
 
-<!-- Sobre mim -->
-## 🚀 Sobre mim
+---
 
-Olá! Sou o **João Vitor**, desenvolvedor **júnior** apaixonado por criar soluções práticas e eficientes. Trabalho principalmente com desenvolvimento web e estou em constante evolução na área de sistemas embarcados.
+## 👨‍💻 Sobre mim
 
-- 🔭 Atualmente focado em **C++** e desenvolvimento web
-- 🌱 Aprendendo mais sobre **arquitetura de software** e **boas práticas de código**
-- 💡 Entusiasta de código limpo, performance e usabilidade
-- 🎯 Buscando oportunidades para crescer como desenvolvedor
+<img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=vitorino2011&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true&area_color=1a1a4e" width="55%"/>
+
+Olá! Sou o **João Vitor**, desenvolvedor **júnior** apaixonado por tecnologia, automação e criação de soluções digitais do zero.
+
+- 🎓 Estudando **Mecatrônica**
+- 📊 Aprendendo **Análise de Dados com Python**
+- 🌐 Desenvolvendo para a **Web** com HTML, CSS e JS
+- 🤖 Construindo projetos com **Arduino e C++**
+- 💡 Entusiasta de código limpo e sistemas inteligentes
+- 🚀 Buscando minha primeira oportunidade profissional
+
+<br clear="right"/>
 
 <br>
 
-<!-- Projetos em destaque -->
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,arduino,python&theme=dark&perline=6" width="360" alt="Tech Stack"/>
+
+</div>
+
+<div align="center">
+
+| Área | Tecnologias |
+|------|-------------|
+| 🌐 **Web** | HTML5, CSS3, JavaScript |
+| ⚙️ **Embarcados** | C++, Arduino, Sensores |
+| 📊 **Dados** | Python (em aprendizado) |
+| 🔧 **Ferramentas** | Git, GitHub, VS Code |
+
+</div>
+
+<br>
+
+---
+
 ## 📂 Projetos em destaque
 
 <div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| **[Carrinho Autônomo](https://github.com/vitorino2011/Carrinho-aut-nomo)** | Sistema de navegação autônoma para carrinho de controle remoto | `C++` `Arduino` `Sensores` |
-| **[Portfólio Web](https://github.com/vitorino2011/portfolio)** | Site pessoal responsivo e moderno | `HTML` `CSS` `JavaScript` |
-| **[Sistema de Cadastro](https://github.com/vitorino2011/sistema-cadastro)** | Aplicação web para gerenciamento de usuários | `HTML` `CSS` `JavaScript` |
-| **[API REST Simples](https://github.com/vitorino2011/api-rest)** | API básica para operações CRUD | `JavaScript` `Node.js` |
+### 🚗 Carrinho Autônomo
+Sistema de navegação autônoma para carrinho RC com sensores de distância e lógica de desvio de obstáculos.
 
+`C++` `Arduino` `Sensores`
+
+🔗 [Ver repositório](https://github.com/vitorino2011/Carrinho-aut-nomo)
+
+---
+
+      </td>
+      <td width="50%" valign="top">
+
+### 🌐 Portfólio Web
+Site pessoal responsivo desenvolvido do zero, apresentando projetos e habilidades.
+
+`HTML` `CSS` `JavaScript`
+
+🔗 [Ver repositório](https://github.com/vitorino2011/portfolio)
+
+---
+
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+
+### 📋 Sistema de Cadastro
+Aplicação web para gerenciamento e cadastro de usuários com interface intuitiva.
+
+`HTML` `CSS` `JavaScript`
+
+🔗 [Ver repositório](https://github.com/vitorino2011/sistema-cadastro)
+
+---
+
+      </td>
+      <td width="50%" valign="top">
+
+### ⚡ API REST Simples
+API básica para operações CRUD com estrutura limpa e documentada.
+
+`JavaScript` `Node.js`
+
+🔗 [Ver repositório](https://github.com/vitorino2011/api-rest)
+
+---
+
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
 
-<!-- Contato -->
+---
+
 ## 📫 Onde me encontrar
 
 <div align="center">
 
 <a href="https://github.com/vitorino2011" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-vitorino2011-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 </a>
+&nbsp;
+<a href="https://www.instagram.com/vitorinojoaovitorramos/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-vitorinojoaovitorramos-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117"/>
+</a>
+&nbsp;
 <a href="mailto:seu.email@exemplo.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-100000?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
 </a>
+&nbsp;
 <a href="https://linkedin.com/in/vitorino2011" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-João%20Vitor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
 </a>
-
-<br><br>
-
-
-<img src="https://komarev.com/ghpvc/?username=vitorino2011&label=Visitas%20no%20perfil&color=70a5fd&style=flat" alt="Profile Views"/>
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4338ca,50:312e81,100:1e1b4b&height=80&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
 </div>

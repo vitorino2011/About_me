@@ -1,31 +1,30 @@
-<h1 align="center">Oiii! Eu sou João Vitor 👋</h1>
+<h1 align="left">Oiii! Eu sou a SEU_NOME</h1>
 
----
+<br>
 
-<p align="center">
-  <img height="180em" 
-       src="https://github-readme-stats.vercel.app/api?username=vitorino2011&show_icons=true&theme=tokyonight&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9&bg_color=0d1117" />
-       
-  <img height="180em" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorino2011&layout=compact&theme=tokyonight&title_color=0A66C2&text_color=c9d1d9&bg_color=0d1117" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img
+          height="190em"
+          src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&include_all_commits=true&card_width=420&title_color=60A5FA&text_color=E2E8F0&icon_color=3B82F6&bg_color=0F172A&border_color=1E3A8A&ring_color=2563EB&border_radius=12&custom_title=GitHub%20Stats"
+        />
+      </td>
+      <td>
+        <img
+          height="190em"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&card_width=420&title_color=60A5FA&text_color=E2E8F0&bg_color=0F172A&border_color=1E3A8A&border_radius=12&custom_title=Most%20Used%20Languages"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
 
----
+<br>
 
-## 🚀 Tecnologias que estou trabalhando
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/>
-</p>
-
----
-
-<p align="center">
-  <b style="color:#0A66C2; font-size:18px;">
-    💻 Desenvolvedor Júnior | Mecatrônica & Microcontroladores
-  </b>
-</p>
+<div align="left">
+  <img
+    src="https://skillicons.dev/icons?i=py,html,css,js,cpp&theme=dark&perline=5"
+  />
+</div>

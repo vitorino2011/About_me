@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=220&section=header&text=João%20Vitor&fontSize=72&fontColor=70a5fd&fontAlignY=38&desc=Desenvolvedor%20Júnior%20•%20Mecatrônica%20•%20Web%20•%20Dados&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 </div>
